@@ -1,6 +1,6 @@
 {
   "name": "kamalhm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Kamal Mahmud (@kamalhm)",
   "main": "/bin/card.js",
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamalhm/kamalhmcard.git"
+    "url": "git+https://github.com/kamalhm/npm-card.git"
   },
   "homepage": "https://kamalhm.dev",
   "scripts": {
@@ -38,7 +38,7 @@
     "standard": "^12.0.1"
   },
   "bugs": {
-    "url": "https://github.com/kamalhm/kamalhmcard/issues"
+    "url": "https://github.com/kamalhm/npm-card/issues"
   },
   "dependencies": {}
 }

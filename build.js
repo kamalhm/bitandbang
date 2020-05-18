@@ -21,7 +21,7 @@ const data = {
   github: chalk.gray('https://github.com/') + chalk.green('kamalhm'),
   linkedin: chalk.gray('https://linkedin.com/in/') + chalk.blue('kamalhm'),
   web: chalk.cyan('https://kamalhm.dev'),
-  npx: chalk.red('npx') + ' ' + chalk.white('@kamalhm/card'),
+  npx: chalk.red('npx') + ' ' + chalk.white('kamalhm'),
   labelTwitter: chalk.white.bold(' Twitter:'),
   labelGitHub: chalk.white.bold('  GitHub:'),
   labelLinkedIn: chalk.white.bold('LinkedIn:'),
